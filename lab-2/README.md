@@ -1,9 +1,7 @@
 # VAGRANT-TRAINING
-
-
 ----------------------------------------------------------------------
+
 # TP N°2/Lab-2 : Créer un vbox
-----------------------------------------------------------------------
 - Créez un dossier Lab-2
 - Déplacez-vous dans ce dossier
 - Initialisez vagrant en utilisant la version 20190425.0.0 ubuntu/trusty64 (vagrant init ubuntu/trusty64)
@@ -16,9 +14,7 @@
 - Publiez votre vbox sur vagrant cloud sous le nom <username>/nginx en version v1
 - Arretez la VM puis supprimez-là (vagrant destroy)
 
-----------------------------------------------------------------------
 # Commandes à utiliser
-----------------------------------------------------------------------
 * mkdir Lab-2
 * cd Lab-2
 * vagrant init ubuntu/trusty64 --box-version 20190425.0.0
