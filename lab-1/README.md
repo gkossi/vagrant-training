@@ -3,12 +3,12 @@
 ----------------------------------------------------------------------
 # Comandes utiles:
 ----------------------------------------------------------------------
-vagrant up : pour lancer vagrant
-vagrant ssh : pour se connecter en ssh à une VM
-vagrant halt : pour arreter une VM
-vagrant suspend : pour mettre en pause une VM
-vagrant provision : pour reconfigurer une VM
-vagrant destroy : pour supprimer une VM
+- vagrant up : pour lancer vagrant
+- vagrant ssh : pour se connecter en ssh à une VM
+- vagrant halt : pour arreter une VM
+- vagrant suspend : pour mettre en pause une VM
+- vagrant provision : pour reconfigurer une VM
+- vagrant destroy : pour supprimer une VM
 
 ----------------------------------------------------------------------
 # TP N°1/Lab-1 : Votre première VM ubuntu
