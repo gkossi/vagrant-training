@@ -19,14 +19,14 @@
 ----------------------------------------------------------------------
 # Commandes à utiliser
 ----------------------------------------------------------------------
-mkdir Lab-2
-cd Lab-2
-vagrant init ubuntu/trusty64 --box-version 20190425.0.0
-vagrant up
-vagrant ssh
-sudo apt-get update; sudo apt-get install nginx -y
-sudo service nginx start
-création de vbox : vagrant package --output nginx.box
-créer un compte sur vagrant cloud et publier la vbox
-arreter: vagrant halt
-supprimer: vagrant destroy
+* mkdir Lab-2
+* cd Lab-2
+* vagrant init ubuntu/trusty64 --box-version 20190425.0.0
+* vagrant up
+* vagrant ssh
+* sudo apt-get update; sudo apt-get install nginx -y
+* sudo service nginx start
+* création de vbox : vagrant package --output nginx.box
+* créer un compte sur vagrant cloud et publier la vbox
+* arreter: vagrant halt
+* supprimer: vagrant destroy
