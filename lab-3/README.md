@@ -37,8 +37,8 @@
 
 sudo service nginx start
 
-création de vbox : vagrant package --output nginx.box
-créer un compte sur vagrant cloud et publier la vbox
+- création de vbox : vagrant package --output nginx.box
+- créer un compte sur vagrant cloud et publier la vbox
 
 - Arretez la VM puis supprimez-là :
 * arreter : vagrant halt
