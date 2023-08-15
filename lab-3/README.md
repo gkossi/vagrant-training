@@ -27,6 +27,8 @@
 - Aller sur Vagrant cloud, créer un compte et se connecter
 - Rechercher centos 7 pour virtualbox créée par geerlingguy : vagrant init geerlingguy/centos7 -m
 
+- Valider le fichier Vagrantfile (à faire à chaque modification du fichier Vagrantfile) : vagrant validate
+
 - Variabilisez les paramètres indiquées ci-dessus
 
 - Démarrer la VM : vagrant up
