@@ -21,13 +21,13 @@
 * cd lab-3
 
 - Initialisez vagrant afin de configurer la Vm à partir des informations suivantes :
-    . Image de base : Centos 7 By Geerlingguy
-    . CPU : 2
-    . RAM : 2 Go
++ Image de base : Centos 7 By Geerlingguy
++ CPU : 2
++ RAM : 2 Go
 
 * Aller sur Vagrant cloud, créer un compte et se connecter
 * Rechercher centos 7 pour virtualbox créée par geerlingguy
-    + vagrant init geerlingguy/centos7 -m
++ vagrant init geerlingguy/centos7 -m
 
 - Variabilisez les paramètres indiquées ci-dessus
 
